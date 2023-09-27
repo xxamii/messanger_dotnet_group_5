@@ -11,4 +11,5 @@ It was supposed to be a simplified clone of Slack. I was working on it with a te
 
 # Other members
 
-Lesha "M00nler": <https://github.com/m00nler>.
+M00nler: <https://github.com/m00nler>.
+ItsSosha: <https://github.com/ItsSosha>
