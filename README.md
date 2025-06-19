@@ -4,9 +4,10 @@ It was supposed to be a simplified clone of Slack. I was working on it with a te
 
 # What I Learned
 
-- How to work in a Scrum-based pipeline.
+- How to work in a team of developers.
+- How to work in an agile manner using a Scrum-based pipeline.
 - How to present increments, made during a Sprint, to code reviewers.
-- How to design a better n-layered architecture.
+- Clean n-layered architecture design.
 - How to write asynchronous code better.
 
 # Other members
